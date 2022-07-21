@@ -1,0 +1,19 @@
+Git repo URL: https://github.com/LowestCarb/github-final-project
+
+License URL: https://github.com/LowestCarb/github-final-project/blob/main/LICENSE
+
+README URL: https://github.com/LowestCarb/github-final-project/blob/main/README.md
+
+Code of conduct URL: https://github.com/LowestCarb/github-final-project/blob/main/CODE_OF_CONDUCT.md
+
+Contributing URL: https://github.com/LowestCarb/github-final-project/blob/main/CONTRIBUTING.md
+
+Script URL: https://github.com/LowestCarb/github-final-project/blob/main/simple-interest.sh
+
+Github Username: LowestCarb
+
+Forked Repo URL: https://github.com/LowestCarb/jbbmo-Introduction-to-Git-and-GitHub
+
+Fork PR URL: https://github.com/ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub/pull/2698
+
+Reverted PR URL: https://github.com/ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub/pull/2699
